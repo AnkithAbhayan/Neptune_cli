@@ -1,6 +1,6 @@
 # Neptune CLI
 ![](screenshots/template.png)  
-The wonderful command-line interface written by Ankith Abhayan (that's me!).
+The wonderful command-line interface written by Ankith Abhayan (that's me!) for creating a todo list.
 - Create and Manage subjects.
 - Manage subject specific todo list items.
 - List out the Todo list subject-wise or the whole thing. You can view it as a tree if you want to.

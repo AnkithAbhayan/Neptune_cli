@@ -68,7 +68,7 @@ class HistoryCommands:
             return
 
         for i in list_of_indexes:
-            if i < -1:
+            if i <= -1:
                 continue
             try:
                 print(f" {i} {client.json_data['history'][i]}")
